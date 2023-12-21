@@ -1,4 +1,4 @@
-# Final Project - Change in the Framing of Migration in the United States from the New York Times
+# Final Project for Computational Media Analysis - Change in the Framing of Migration in the United States from the New York Times
 States during the Contemporary Era (1945-2023)
 
 ![Pics](https://github.com/lidwinaput/CMA_FinalTerm_Migration/assets/151516433/591e6335-4156-4ec9-9e84-0cca5331f39b)
