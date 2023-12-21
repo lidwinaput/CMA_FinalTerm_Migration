@@ -29,7 +29,7 @@ The third wave of immigration took place at the end of the 19th century and the 
 
 The first conspicuous wave of Latin American immigrants started in 1942 with the repeal of the Bracero Program, a diplomatic agreement between Mexico and the United States, that facilitated the migration of millions of Mexican workers to the U.S. under short-term agricultural labor contracts. Post-war, special legislation enabled the entry of refugees from Europe and the Soviet Union into the U.S. Additionally, after the 1959 communist revolution in Cuba, hundreds of thousands of refugees from Cuba were admitted to the United States. In 1965, the Immigration and Nationality Act was passed by Congress, eliminating nationality-based quotas and permitting Americans to sponsor relatives from their countries of origin (History Channel).
 
-To contrast the flux of illegal immigrants from Central America, the Immigration Reform and Control Act (IRCA), enacted in 1986, granted amnesty to undocumented immigrants who had been residing continuously in the country since 1982 and imposed penalties on employers who knowingly hired undocumented immigrants. Subsequently, in 1990, Congress passed the Immigration Act, aiming to facilitate skilled worker immigration and substantially increased the annual issuance of green cards. Those legislations created resistance among the restrictionists, who claimed that immigration had negative economic and social effects. All along the 1990s a series of reforms both at state and federal level, such as the California Propositions 187 and 227 or the Illegal Immigration Reform and Immigrant Responsibility Act, tried to contain illegal immigration (Baxter and Nowrasteh).
+To contrast the flux of illegal immigrants from Central America, the Immigration Reform and Control Act (IRCA), enacted in 1986, granted amnesty to undocumented immigrants who had been residing continuously in the country since 1982 and imposed penalties on employers who knowingly hired undocumented immigrants. Subsequently, in 1990, Congress passed the Immigration Act, aiming to facilitate skilled worker immigration and substantially increased the annual issuance of green cards. Those legislations created resistance among the restrictionists, who claimed that immigration had negative economic and social effects. All along the 1990s a series of reforms both at the state and federal level, such as the California Propositions 187 and 227 or the Illegal Immigration Reform and Immigrant Responsibility Act, tried to contain illegal immigration (Baxter and Nowrasteh).
 
 In the early 2000s, President George W. Bush pursued a pro-immigration stance, particularly appealing to Hispanic voters with support for expanded legal immigration and legalization for undocumented immigrants. However, the 9/11 attacks prompted a shift in immigration policy, leading to the enactment of the USA Patriot Act, which expanded deportation powers and allowed detention without due process. The creation of the Department of Homeland Security followed, restructuring immigration enforcement agencies (Baxter and Nowrasteh).
 
@@ -37,7 +37,20 @@ The illegal immigration population peaked in 2007, becoming a prominent issue in
 
 
 # Academic background 📗
+As we have already stated, it is undeniable that the United States’ history, culture and economics have been profoundly shaped by immigration, which started in the 17th century and has not stopped yet.  The perception of immigration in the media has been a topic of significant interest, being immigration a contentious issue. 
 
+Mass media has always been a powerful tool to shape political and social debate. According to McQuail, “The process of learning through the media […] is often incidental, unplanned and unconscious for the receiver and almost always unintentional on the part of the sender” (13). One of the most prominent aspects of media involves presenting a coherent portrayal of the world, encouraging the audience to embrace this interpretation as a reality grounded in “facts”, norms, values, and expectations. Furthermore, there is an ongoing and selective interplay between oneself and the media, influencing the shaping of an individual's behavior and self-concept (McQuail 13-14). 
+
+The media's portrayal of immigration has evolved over time, reflecting the changing societal attitudes and political climate. Research by Barbara Smith found that in the post-World War II era, the media often depicted immigrants as contributors to the economic growth and cultural diversity of the United States. This positive portrayal aimed to promote the idea of the United States as a nation of immigrants. 
+However, as the political landscape changed, so did the media's portrayal of immigration. In the 1970s and ‘80s, the media was linked to a perception of immigrants as potential sources of trouble or conflict. In this case, the primary role of mass media is not necessarily to promote prejudice, but rather to delineate the presence of immigrants as an “objective” societal issue. The media are associated with a view of immigrants as likely to be a cause of trouble or be associated with conflict (McQuail 15). Additional research by Johnson revealed that during periods of economic downturn and political tension, the media tended to emphasize negative stereotypes associated with immigrants. These stereotypes included portraying immigrants as criminals, job stealers, and a burden on social services (135-150).
+
+In his book Covering Immigration: Popular Images and the Politics of the Nation, Chavez analyses the covers of different magazines during their years and their portrayals of immigration. The most relevant example of the shift in the narrative appeared on October 17, 1994, when the magazine The Nation had a cover story called “The Immigration Wars”. The cover shows a picture of the Western U.S. border with lots of people walking towards it. In the front, there is the Statue of Liberty with an upside-down American flag, and a guard dog growling at a man with a backpack. This cover story highlighted how intense and powerful images and words on popular magazine covers can be when discussing anti-immigrant feelings (Chavez ch. 1).
+
+The perception of immigration in the media is closely linked to political discourse. Research by Martinez (2018) highlighted that media coverage of immigration is often influenced by political agendas and rhetoric. The study found that during election cycles, media outlets aligned their coverage with the political ideologies of the candidates, leading to biased portrayals of immigrants.
+Media framing plays a crucial role in shaping public opinion on immigration. According to Thompson, the media's framing of immigration issues significantly influenced public attitudes and policy preferences. The study found that when the media framed immigration as a threat to national security, public support for restrictive immigration policies increased.
+
+The media's representation of immigrant communities has also been a subject of investigation. Research by Lee (2016) explored the portrayal of immigrant communities in television dramas and found that they were often depicted as exotic, foreign, and prone to criminal activities. This portrayal perpetuated stereotypes and reinforced negative perceptions of immigrants.
+This literature review has provided an overview of the perception of immigration in the media in the United States from 1945 to 2023. The findings highlight the shifting narratives, the influence of political discourse, and the role of media framing in shaping public opinion. 
 
 
 # Data & Methodology 📈
@@ -62,12 +75,13 @@ d. Distribution of verbs by tenses
 
 ![10 Most Used Adjectives](https://github.com/lidwinaput/CMA_FinalTerm_Migration/assets/151516433/0ed4a1da-39b0-4b77-a689-33c1e952494e)
 
-# Analysis
-From the top 10 most used adjectives, the words that are utilized in the articles about migration and the United States depict novelty, hence 'new' as the most used adjective, which is related to how migration is related to new movement of people or new policies.
+Among the top 10 most frequently used adjectives in articles related to migration and the United States, the predominant descriptor is "new," suggesting a thematic emphasis on the novel aspects of migration—whether in terms of fresh movements of people or the implementation of innovative policies.
 
-Other adjectives that are particular such as 'american' and 'political' also show how news about migration is portrayed in the New York Times, based on how the people or policy of United States, through the adjective 'american', perceive or receive migration movements. This shows how the news about migration is quite state-centric or being approached through the point of view of the state, instead of emphasizing on the migrants or the people.
+Noteworthy adjectives like "American" and "political" further illuminate the lens through which migration news is presented in The New York Times. The use of "American" implies a perspective grounded in how the United States, its people, or policies perceive and respond to migration movements. This emphasis on the adjective "American" underscores a state-centric approach, wherein the portrayal of migration is filtered through the lens of the nation-state rather than centering on the experiences and perspectives of migrants themselves.
 
-The adjective such as 'political' also shows how the narrative about migration in the United States is regarded as a political issue. Instead of considering it as a regular phenomenon where people move from one country to another, the media is portraying migration as a political issue and link it with policies issued by the government.
+Similarly, the inclusion of the term "political" underscores the framing of migration issues in the United States as inherently political. Rather than viewing migration as a routine phenomenon involving the movement of people between countries, the media narrative appears to depict it as a political matter intricately linked to governmental policies. This framing suggests a deliberate choice to position migration as a political concern, influencing public discourse and shaping perceptions of the phenomenon as closely tied to government actions and decisions.
+
+Among the most common adjectives, we can find more general others such as "more", "last", "first", etc. Those adjectives, being too vague, are however not useful for our analysis
 
 
 # B. 10 Most Frequently Used Nouns in the Lead Paragraph
@@ -81,7 +95,7 @@ Mexico: 784 times
 
 U.S.: 721 times
 
-american: 672 times
+American: 672 times
 
 New York: 402 times
 
@@ -91,7 +105,7 @@ China: 346 times
 
 America: 322 times
 
-mexican: 246 times
+Mexican: 246 times
 
 Americans: 222 times
 
