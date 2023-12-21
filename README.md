@@ -74,16 +74,27 @@ The adjective such as 'political' also shows how the narrative about migration i
 
 
 The 10 most frequently mentioned nouns in lead paragraphs:
+
 the United States: 1483 times
+
 Mexico: 784 times
+
 U.S.: 721 times
+
 american: 672 times
+
 New York: 402 times
+
 WASHINGTON: 372 times
+
 China: 346 times
+
 America: 322 times
+
 mexican: 246 times
+
 Americans: 222 times
+
 ![10 Most Common Nouns](https://github.com/lidwinaput/CMA_FinalTerm_Migration/assets/151516433/00a85aa5-00fb-4794-a73c-b9bfcddd7563)
 
 
@@ -99,8 +110,95 @@ As for Mexico or mexican, it is also one of the main emphasize from the U.S. rel
 From the results of the most used nouns, we can conclude that the narrative about migration and the United States is still heavily emphasized to two countries that are perceived to affect significantly to the United States, namely China and Mexico.
 
 
+# C. Most Frequently Used Verbs
+
+![10 Most Used Verbs](https://github.com/lidwinaput/CMA_FinalTerm_Migration/assets/151516433/c672ab00-04b1-460b-b3b0-52e2439f33cb)
+
+# D. Distribution of Verbs by Tenses
+![Distribution of Verbs by Tenses](https://github.com/lidwinaput/CMA_FinalTerm_Migration/assets/151516433/75bb99af-98b7-4aac-82e4-37017b2e93e5)
 
 
+Verbs in Past Tense : 11104
+
+Verbs in Present Tense : 4072
+
+Verbs in Future Tense : 41269
+
+
+# Analysis
+Based on the results, it is interesting that the most used verbs are in future tense, although the most used verbs is 'is' which is a very common to-be form.
+
+In the articles, migration in the United States could be linked with aspiration, hence using future tense, or about the impact to the U.S., therefore using future tenses 'it will...'
+
+The lack of using 'present tense' also shows how most of the news does not only present facts, it could also show what happened before and what will be the consequences (future)
+
+
+# II. Temporal evolution ⏰
+
+# a. Number of Articles Published Annually
+
+![Number of Articles Published Annually](https://github.com/lidwinaput/CMA_FinalTerm_Migration/assets/151516433/deed401d-fe74-482f-8dfa-7e61a09b0e40)
+
+
+# Analysis
+
+From the analysis of the number of articles on migration and US per year, the highest number of publications is in the year 2019. The year 2019 is the year when Trump implemented the 'Migrant Protection Protocols' or the 'Remain in Mexico' immigration policy, which affects immigration across the border with Mexico.
+
+The policy is aimed to restrict the number of migrants coming to US, however, more migrants come crossing the border during that year, which shows how restrictive policy isn't necessarily effective to curb immigration.
+
+
+# b. Word Count per Article
+
+![word count per article](https://github.com/lidwinaput/CMA_FinalTerm_Migration/assets/151516433/40df6bd3-c86f-4396-82ce-f51b05c1a7a1)
+
+# Analysis
+
+For the words used in the articles, a high amount of words are used in articles from 1990 until mid 2005, which could be because of the amount of migration and the increase of perception of migration as a threat that occurred during that time (post-Cold War and post 9/11)
+
+
+
+# c. Plot Word Evolution
+
+![Evolution of China](https://github.com/lidwinaput/CMA_FinalTerm_Migration/assets/151516433/d99b80f1-9f9d-4025-9f8c-435d46afba25)
+
+![Evolution of Mexico](https://github.com/lidwinaput/CMA_FinalTerm_Migration/assets/151516433/5f287363-c788-4442-8eb9-52a27cbac2db)
+
+![Evolution of Immigration](https://github.com/lidwinaput/CMA_FinalTerm_Migration/assets/151516433/6dd6eac7-6bfb-4a7c-87b9-35392421ff98)
+
+![Evolution of Migrants](https://github.com/lidwinaput/CMA_FinalTerm_Migration/assets/151516433/2654c33d-ad8e-4518-9e64-6aed67e263bb)
+
+![Evolution of Policy](https://github.com/lidwinaput/CMA_FinalTerm_Migration/assets/151516433/548a4bb2-703f-4d63-9afc-2a92ad20a951)
+
+
+# Analysis
+From the graph that portrays word occurrences, there has been a constant use of the word migrants, and many use of the word immigration.
+
+As for the nationality, the word Mexico is often used especially in the year 2000 onwards, with the word China as well but not as many as Mexico.
+
+For Mexico and Mexican, the articles are mostly about the border policy as well as referring to the Mexican migrants. For the word China, it is not always about immigration from China to the U.S. but also about China as a country and its power that challenges the U.S.
+
+
+# III. Topic Modeling
+
+
+
+# IV. Sentiment Analysis
+
+
+
+# V. Name of Public Figures
+
+![Top 10 Public Figures Mentioned](https://github.com/lidwinaput/CMA_FinalTerm_Migration/assets/151516433/3a3b6a1f-fc0e-4512-80ac-e24a7f12ca83)
+
+
+Among the most common names mentioned, the first one in terms of frequency is Donald J. Trump or Trump. This shows how the news related to migration is almost always related to the president who implement the policy about migration.
+
+
+# VI. Conclusion
+
+
+
+# VII. Bibliography
 
 
 
