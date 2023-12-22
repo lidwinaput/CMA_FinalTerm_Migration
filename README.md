@@ -251,7 +251,57 @@ This linguistic analysis elucidates the intricate dynamics of migration discours
 # IV. Topic Modeling
 
 
+<img width="941" alt="image" src="https://github.com/lidwinaput/CMA_FinalTerm_Migration/assets/151516433/e3379ea8-225f-40ec-998b-1fcfb5b7eb7a">
 
+  
+
+Topic 1 (Irregular Migration): 'america', 'north', 'other', 'guatemala', 'history'
+
+Topic 2 (Border Legislation): 'border', 'migrant', 'texas', 'walls', 'mexico', 'trump'
+
+Topic 3 (Movement): 'bird', 'she', 'day', 'out'
+
+Topic 4 (Culture): 'art', 'city', 'street', 'work', 'center'
+
+Topic 5 (Immigrant): 'china', 'african', 'west', 'europe', 'state'
+
+Topic 6 (Subjects): 'you', 'our', 'story', 'we', 'book'
+
+Topic 7 (Political Power): 'trump', 'biden', 'washington', 'american', 'russia', 'president'
+
+Topic 8 (Immigration): 'border', 'illegal', 'administration', 'federal'
+
+Topic 9 (Displacement): 'climate change', 'refugee', 'population', 'people', 'economic', 'global'
+
+Topic 10 (Media): 'times', 'article', 'publish', 'network'
+
+Topic 11 (Immigration Policy): 'president', 'trump', 'european', 'election', 'right', 'party'
+
+
+
+# Global Interpretation of the Topic Structure
+
+From the words generated and the topic structure, it is shown that the New York Times covered a wide range of topic related to migration and the United States. The articles ranged from irregular migration which is a concern of the United States, including history, american, and Guatemala as one of the prominent migrant-sending country with a high number of irregular migration to the U.S. This also suggests a geographical focus, possibly on North America and Central American countries.
+
+Topics such as border legislation also deals with laws and policies governing borders, likely focused on immigration control.  'Texas', 'mexico', 'trump', suggest a focus on US-Mexico border policies, particularly during Donald Trump's presidency.  The mention of 'walls' could refer to physical border barriers.
+
+One of the topic that appears is on immigrants, which mentioned nationalities and nations such as China, African, and referring to the West as well as Europe. This shows that the New York Times covers stories or issues related to immigrants from specific regions.  'China', 'african', 'west', 'europe' indicate a diverse geographical focus on immigrants' origins. 'State' might refer to their status or experiences in their new countries.
+
+Articles about migration and the United States also covered political power who hold an important role on developing policies on migration, such as Trump, Biden, and influential power such as Russia. Mention of 'trump', 'biden', 'washington', 'american', 'russia', and 'president' indicates discussions about American politics, international relations, and specific political figures.
+
+The articles also covered migration in the policy level, mentioning immigration as a broad theme and specifically on immigration policy. 
+For the topic immigration, it is similar to 'Border Legislation', but with a broader scope on immigration issues.  'Illegal', 'administration', 'federal' suggest a focus on governmental policies and legal aspects of immigration.
+
+Keywords under Immigration Policy such as 'President', 'trump', 'european', 'election', 'right', 'party' indicate a focus on political debates and policies regarding immigration, both in the US and Europe.  The topic also covered different types of displacement including 'climate change', 'refugee', 'population', 'economic', 'global'.  These imply discussions about global crises, economic factors, and the impact of climate change on displacement.
+
+Aside from policy, the articles also cover migration in the U.S. which revolves aroudn cultural aspects, possibly within urban settings.
+Keywords like 'art', 'city', 'street', and 'center' suggest a focus on urban life, arts, and cultural centers. 
+
+<img width="453" alt="Screenshot 2023-12-22 at 22 07 33" src="https://github.com/lidwinaput/CMA_FinalTerm_Migration/assets/151516433/d723df05-1e95-4382-8606-73d007a34f58">
+
+
+
+<img width="483" alt="image" src="https://github.com/lidwinaput/CMA_FinalTerm_Migration/assets/151516433/cce5f5d3-8dd3-4856-b807-ad6e1f994248">
 
 
 
