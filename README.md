@@ -94,7 +94,7 @@ United States: 1425 times
 
 US: 645 times
 
-american: 618 times
+American: 618 times
 
 Mexico: 424 times
 
@@ -106,7 +106,7 @@ China: 267 times
 
 Americans: 213 times
 
-mexican: 211 times
+Mexican: 211 times
 
 Times: 201 times
 
@@ -161,32 +161,28 @@ In essence, the predominance of future tense verbs serves as a linguistic marker
 
 # II. Name of Public Figures
 
-The most frequently mentioned name of public figures:
+The most frequently mentioned names of public figures:
 
 ![Top 10 Public Figures Mentioned - New](https://github.com/lidwinaput/CMA_FinalTerm_Migration/assets/151516433/a2f74899-844a-49ac-95a4-7e3ae4669a6b)
 
 
-Among the most common names mentioned, the first one in terms of frequency is Donald J. Trump or Trump. This shows how the news related to migration is almost always related to the president who implement the policy about migration. Even in the period of 1945 to 2023, the most used name is Trump, showing how during Trump's presidency, migration in the USA became such a prominent topic.
+The frequency analysis of mentioned names in the New York Times articles on migration reveals a significant prevalence of Donald J. Trump (mentioned around 450 times), emphasizing the deeply intertwined connection between migration-related news and the presidency. If we consider that we decided to analyze a span of eighty years, we can see how Trump's presidency (which lasted four years) elevated migration to a prominent national topic.
+
+Following Trump, the names of Biden (around 200 times) and Kamala Harris (around thirty times) emerge as frequently cited figures, highlighting the continued importance of migration during Biden's presidency. Notably, Biden's administration introduced new border enforcement actions, signaling a shift towards stricter immigration policies, particularly concerning unauthorized migration.
+
+Several U.S. political figures, such as George W. Bush (150 times), Barack Obama (130), Bill Clinton (fifty times), Ronald Reagan (forty times), Jimmy Carter (forty times) and Richard Nixon (twenty times), are also prominently mentioned in migration-related discussions, reflecting their roles and policies concerning immigration during their respective presidencies.
+
+Beyond U.S. political figures, international political leaders like Fidel Castro, Vicente Fox and Angela Merkel are notably referenced – respectively mentioned sixty, fifty and thirty times. Fidel Castro’s mention is linked to the Cuban exodus following the 1959 revolution, resulting in a significant refugee influx into the United States (Duany). The migration of Cubans to the U.S. has historically marked Castro’s legacy and the subsequent impact on U.S. migration policies.
+
+Vicente Fox, Mexico's former president, collaborated with George W. Bush to advocate for Mexican migrants’ rights in the United States, recognizing its significance in domestic political spheres (Leiken).
+
+Angela Merkel, Germany's chancellor, gained attention for her “open-door” migration policy in 2015, accepting a substantial number of refugees in the country. While Germany's immigration policies have evolved, references to Merkel in U.S. migration discussions might denote comparisons or considerations in shaping U.S. immigration policy.
+
+Additional names like Bantam (mentioned thirty times), Brexit (thirty times), and Charles J. Givens (twenty times), offering diverse contextual references, might be tangentially associated with U.S. migration discourse, reflecting nuanced connections or comparative considerations in related articles. To explain the recurrence of “Brexit”, the withdrawal of the United Kingdom from the European Union happened in 2020, we have to consider that one of the main reasons for a large number of favorable votes was the campaign around the limitation of immigration. Concerning Bantam, we found out that it is a town in Connecticut, but no further relevant information is available. Charles J. Givens is a bestselling author of three books about wealth and financial strategies; again, his link with the topic of immigration is mostly tangential. It is also interesting to notice how the algorithm mistakes the nouns “Brexit” and “Bantam” for public figures.
+
+These diverse references underscore the multifaceted nature of migration discussions, weaving together national and international political figures, historical events, and comparative contexts to enrich the discourse on migration in the United States.
 
 
-Aside from Trump, Biden is the second most used and Kamala Harris as his vice president was among the most used as well-- showing how during Biden's presidency, migration is still considered as an important topic. Biden also implemented new border enforcement actions related to immigration policy, which shows a more stringent policy especially towards migration that are done unlawfully. 
-
-Other U.S. Political Figures are mentioned, namely Bush, Barack Obama, Clinton, Reagan, Nixon, Carter
-
-
-Aside from U.S. Political Figures, other political figures from other countries are mentioned, namely Vicente Fox (Mexico), Angela Merkel (Germany), Fidel Castro (Cuba).  The three political figures have all championed or implemented policies about migration, particularly with the United States.
-
-
-For Vicente Fox who was the president of Mexico (2000-2006), together with president George W. Bush, they championed the rights of Mexican migrants in the United States, as they saw the issue as a key to domestic political success (Leiken).  
-
-
-As for Angela Merkel who was the chancellor of Germany, she was notable for her 'open-door' migration policy back in 2015, accepting over 1 million refugees. Although the immigration policy in Germany has changed ever since, when it comes to the topic of migration and the U.S., it is possible that The New York Times did comparison or referring to Angela Merkel for the U.S.' own immigration policy. 
-
-
-Fidel Castro who was the leader of the Cuban Revolution in 1959, was mentioned often in the articles on migration and the United States.  This is relatd to the Cuban exodus as a consequence of the revolution, which unleashed the highest refugee influx in United States history, with the amount of estimatedly 1.4 million people fleeing the country (Duany). Many people relocated, but United States became the top main destination for Cubans ever since then.  
-
-
-Other names that are mentioned is Bantam (probably referring to the area in Connecticut, U.S.), Brexit, Charles J. Givens (author of a non-migration related book, titled Wealth Without Risk). Brexit could be referred when the article covered about migration in the U.S., as it was one of the most defining issue in the UK's referendum on its European Union membership.
 
 
 
