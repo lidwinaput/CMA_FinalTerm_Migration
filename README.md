@@ -112,16 +112,17 @@ Americans: 222 times
 ![10 Most Common Nouns](https://github.com/lidwinaput/CMA_FinalTerm_Migration/assets/151516433/00a85aa5-00fb-4794-a73c-b9bfcddd7563)
 
 
-# Analysis
-In the articles about migration and the United States, using the named entity recognition, names of nationalities, religious and political groups that are often used are mostly related to the United States (7 nouns), and aside from that are 'Mexico', 'China', and 'Mexican'.
+In the corpus of articles pertaining to migration and the United States, an analysis employing named entity recognition reveals a notable concentration on specific nationalities and countries. Intriguingly, the majority of these entities—seven nouns, to be precise—are intricately linked to the United States itself. Concurrently, the names "Mexico"/"Mexican" and "China" emerge prominently beyond this central nexus, signifying their distinctive relevance in the discourse on migration.
 
-This shows that in the narrative portrayed in the articles from New York Times, narrative about migration in the United States shows how the migration impacted the U.S. or the 'Americans', and news about migration in the United States is dominantly related to China and Mexico or Mexicans.
+This observation underscores a discernible thematic pattern within the narrative constructed by articles from the New York Times. The overarching focus revolves around elucidating the impact of migration on the United States and its citizenry ("Americans"). Significantly, the preeminent themes in the coverage of migration within the United States consistently gravitate towards China and Mexico, specifically Chinese and Mexican nationals.
 
-This depicts the two countries that become the focus in the narrative of migration in the United States. China has become the U.S.' rising contender for global hegemony and has become the U.S.' political rival, therefore, it is common for the news in the U.S. to cover about China. Apparently, in the context of migration and the United States, China is also mentioned often which shows how the migration from China is also significant in the United States.
+As expected, the mention of Mexico or "Mexican" within the discourse is pronounced, primarily stemming from the substantial influx of immigrants from the country. The high volume of border crossings between Mexico and the United States catalyzes U.S. government actions, particularly during the Trump presidency, prompting initiatives such as the construction of border walls to impede further migration from Mexico.
 
-As for Mexico or mexican, it is also one of the main emphasize from the U.S. related to migration due to the high number of immigration from Mexico. The high amount of people who cross the border between Mexico and the U.S. becomes the prompt for the U.S. government, especially during Trump presidency, to build the walls that prevents more Mexican migrants to move to the United States.
+The preeminence of China within the narrative of U.S. migration is multifaceted. Not only is China posited as a rising contender for global hegemony, but it has also evolved into a palpable political rival to the United States. Consequently, the news narrative in the U.S. tends to extensively cover developments related to China, including aspects of migration. This dual emphasis underscores the inextricable linkage between migration dynamics and the geopolitical dynamics between these two nations. 
+Furthermore, the Chinese immigrant community is one of the biggest in the United States. The trajectory of Chinese migration reflects a noteworthy shift in recent years, particularly since 2012, with a steady rise in the number of Chinese nationals seeking asylum. The cumulative figure has surpassed 850,000, with the United States emerging as the primary host country, accommodating around 88,000 Chinese asylum seekers and an additional 66,000 individuals granted refugee status.
+Notably, an unprecedented surge has been observed in the number of Chinese migrants apprehended at the Mexico-U.S. border, reaching nearly 10,000 since October 2022, marking the highest recorded figure. Nevertheless, the flux of immigration from China experienced a significant transformation in size and composition due to the profound impact of the COVID-19 pandemic on global migration patterns. Despite peaking at nearly 2.5 million in 2019, the number of Chinese immigrants in the U.S. dwindled to under 2.4 million in 2021, marking a departure from a prolonged period of growth. This decline can be attributed to the stringent migration restrictions imposed by the Trump administration during the early stages of the pandemic and the Chinese government's implementation of "zero-COVID" policies until late 2022.
 
-From the results of the most used nouns, we can conclude that the narrative about migration and the United States is still heavily emphasized to two countries that are perceived to affect significantly to the United States, namely China and Mexico.
+In synthesizing the most frequently used nouns, it becomes evident that the narrative encapsulating migration and the United States remains distinctly fixated on two countries perceived to wield significant influence upon the nation—China and Mexico. This not only reflects the geopolitical realities but also underscores the intricate interplay between migration dynamics and broader global relationships within the ambit of U.S. news coverage.
 
 
 # C. Most Frequently Used Verbs
@@ -184,12 +185,12 @@ For the words used in the articles, a high amount of words are used in articles 
 ![Evolution of Policy](https://github.com/lidwinaput/CMA_FinalTerm_Migration/assets/151516433/548a4bb2-703f-4d63-9afc-2a92ad20a951)
 
 
-# Analysis
-From the graph that portrays word occurrences, there has been a constant use of the word migrants, and many use of the word immigration.
 
-As for the nationality, the word Mexico is often used especially in the year 2000 onwards, with the word China as well but not as many as Mexico.
+The graphical representation illustrating word occurrences reveals a persistent utilization of the term "migrants" and a notable frequency of the word "immigration." Notably, the term "Mexico" is frequently employed, particularly in the period extending from the year 2000 onwards. In comparison, the term "China" is also prevalent, albeit to a lesser extent than "Mexico."
 
-For Mexico and Mexican, the articles are mostly about the border policy as well as referring to the Mexican migrants. For the word China, it is not always about immigration from China to the U.S. but also about China as a country and its power that challenges the U.S.
+Upon closer examination of the articles referencing Mexico and its corresponding adjective "Mexican," a discernible thematic focus emerges. Predominantly, the discourse revolves around border policies, underscored by recurrent mentions of Mexican migrants. Conversely, when considering the term "China," the narrative extends beyond mere discussions of immigration from China to the United States. Instead, it encompasses a broader spectrum, encompassing reflections on China as a nation and its formidable geopolitical influence, which presents formidable challenges to the United States.
+
+This linguistic analysis underscores a nuanced discourse surrounding migration, where Mexico features prominently in discussions primarily related to border policies and the experiences of Mexican migrants. On the other hand, the term "China" unfolds as a multifaceted topic, intertwining discussions about immigration with broader considerations of China's geopolitical prowess vis-à-vis the United States. The distinct thematic trajectories underscore the complexity and diversity inherent in the discourse surrounding these two nations within the context of migration.
 
 
 # III. Topic Modeling
