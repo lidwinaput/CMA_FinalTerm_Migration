@@ -60,7 +60,7 @@ In building the corpus, due to the NYT API's constraints when generating the cor
 # I. Lexical extraction 📊
 To identify the pattern in the articles about migration and the United States, we will extract several things based on the corpus:
 
-a. 10 most frequently used adjectives in the headline and lead paragraph
+a. 10 most frequently used adjectives
 
 b. 10 most frequently used nouns in the headline and lead paragraph
 
@@ -68,10 +68,11 @@ c. 10 most frequently used verbs
 
 d. Distribution of verbs by tenses
 
+![10 Most Used Adjectives-New](https://github.com/lidwinaput/CMA_FinalTerm_Migration/assets/151516433/4ff05d7d-bed5-43da-b441-2fc2e6e59472)
 
-# A. 10 Most Frequently Used Adjectives in the Lead Paragraph
+# A. 10 Most Frequently Used Adjectives
 
-![10 Most Used Adjectives](https://github.com/lidwinaput/CMA_FinalTerm_Migration/assets/151516433/0ed4a1da-39b0-4b77-a689-33c1e952494e)
+
 
 Among the top 10 most frequently used adjectives in articles related to migration and the United States, the predominant descriptor is "new," suggesting a thematic emphasis on the novel aspects of migration—whether in terms of fresh movements of people or the implementation of innovative policies.
 
@@ -79,35 +80,39 @@ Noteworthy adjectives like "American" and "political" further illuminate the len
 
 Similarly, the inclusion of the term "political" underscores the framing of migration issues in the United States as inherently political. Rather than viewing migration as a routine phenomenon involving the movement of people between countries, the media narrative appears to depict it as a political matter intricately linked to governmental policies. This framing suggests a deliberate choice to position migration as a political concern, influencing public discourse and shaping perceptions of the phenomenon as closely tied to government actions and decisions.
 
-Among the most common adjectives, we can find more general others such as "more", "last", "first", etc. Those adjectives, being too vague, are however not useful for our analysis
+The term "black," which is used frequently, is another adjective that is noted in the articles. This could refer to colour in the literal sense, but could also be a reference to African Americans, showing how when talking about migration, The New York Times also still discuss about the African-American descent in the U.S. and their possible migration within and outside of the U.S.
+
+Among the most common adjectives, we can find more general others such as "many", "last", "first", etc. Those adjectives, being too vague, are however not useful for our analysis
 
 
-# B. 10 Most Frequently Used Nouns in the Lead Paragraph
+# B. 10 Most Frequently Used Nouns
 
 
 The 10 most frequently mentioned nouns in lead paragraphs:
 
-the United States: 1483 times
+United States: 1425 times
 
-Mexico: 784 times
+US: 645 times
 
-U.S.: 721 times
+american: 618 times
 
-American: 672 times
+Mexico: 424 times
 
-New York: 402 times
+WASHINGTON: 386 times
 
-WASHINGTON: 372 times
+New York: 345 times
 
-China: 346 times
+China: 267 times
 
-America: 322 times
+Americans: 213 times
 
-Mexican: 246 times
+mexican: 211 times
 
-Americans: 222 times
+Times: 201 times
 
-![10 Most Common Nouns](https://github.com/lidwinaput/CMA_FinalTerm_Migration/assets/151516433/00a85aa5-00fb-4794-a73c-b9bfcddd7563)
+
+![10 Most Common Nouns - New](https://github.com/lidwinaput/CMA_FinalTerm_Migration/assets/151516433/e8262e1d-250b-4670-bad6-6b8f34f1439e)
+
 
 
 In the corpus of articles pertaining to migration and the United States, an analysis employing named entity recognition reveals a notable concentration on specific nationalities and countries. Intriguingly, the majority of these entities—seven nouns, to be precise—are intricately linked to the United States itself. Concurrently, the names "Mexico"/"Mexican" and "China" emerge prominently beyond this central nexus, signifying their distinctive relevance in the discourse on migration.
@@ -125,11 +130,15 @@ In synthesizing the most frequently used nouns, it becomes evident that the narr
 
 # C. Most Frequently Used Verbs
 
-![10 Most Used Verbs](https://github.com/lidwinaput/CMA_FinalTerm_Migration/assets/151516433/c672ab00-04b1-460b-b3b0-52e2439f33cb)
+
+![10 Most Used Verbs - New](https://github.com/lidwinaput/CMA_FinalTerm_Migration/assets/151516433/f82d5033-87d4-4cbd-aa16-957489aac940)
 
 
 # D. Distribution of Verbs by Tenses
-![Distribution of Verbs by Tenses](https://github.com/lidwinaput/CMA_FinalTerm_Migration/assets/151516433/75bb99af-98b7-4aac-82e4-37017b2e93e5)
+
+
+![Distribution of Verbs Tenses - New](https://github.com/lidwinaput/CMA_FinalTerm_Migration/assets/151516433/e2d6cbc9-d4a5-423c-8ffc-329c37eaaacd)
+
 
 
 Verbs in Past Tense: 11104
@@ -149,7 +158,39 @@ The conspicuous absence of the 'present tense' in verb usage further underscores
 In essence, the predominance of future tense verbs serves as a linguistic marker, potentially mirroring the dual emphasis on future-oriented policy considerations and the broader, lasting implications of migration on the multifaceted dimensions of American society.
 
 
-# II. Temporal evolution ⏰
+
+# II. Name of Public Figures
+
+The most frequently mentioned name of public figures:
+
+![Top 10 Public Figures Mentioned - New](https://github.com/lidwinaput/CMA_FinalTerm_Migration/assets/151516433/a2f74899-844a-49ac-95a4-7e3ae4669a6b)
+
+
+Among the most common names mentioned, the first one in terms of frequency is Donald J. Trump or Trump. This shows how the news related to migration is almost always related to the president who implement the policy about migration. Even in the period of 1945 to 2023, the most used name is Trump, showing how during Trump's presidency, migration in the USA became such a prominent topic.
+
+
+Aside from Trump, Biden is the second most used and Kamala Harris as his vice president was among the most used as well-- showing how during Biden's presidency, migration is still considered as an important topic. Biden also implemented new border enforcement actions related to immigration policy, which shows a more stringent policy especially towards migration that are done unlawfully. 
+
+Other U.S. Political Figures are mentioned, namely Bush, Barack Obama, Clinton, Reagan, Nixon, Carter
+
+
+Aside from U.S. Political Figures, other political figures from other countries are mentioned, namely Vicente Fox (Mexico), Angela Merkel (Germany), Fidel Castro (Cuba).  The three political figures have all championed or implemented policies about migration, particularly with the United States.
+
+
+For Vicente Fox who was the president of Mexico (2000-2006), together with president George W. Bush, they championed the rights of Mexican migrants in the United States, as they saw the issue as a key to domestic political success (Leiken, 2001).  
+
+
+As for Angela Merkel who was the chancellor of Germany, she was notable for her 'open-door' migration policy back in 2015, accepting over 1 million refugees. Although the immigration policy in Germany has changed ever since, when it comes to the topic of migration and the U.S., it is possible that The New York Times did comparison or referring to Angela Merkel for the U.S.' own immigration policy. 
+
+
+Fidel Castro who was the leader of the Cuban Revolution in 1959, was mentioned often in the articles on migration and the United States.  This is relatd to the Cuban exodus as a consequence of the revolution, which unleashed the highest refugee influx in United States history, with the amount of estimatedly 1.4 million people fleeing the country (Duany, 2017). Many people relocated, but United States became the top main destination for Cubans ever since then.  
+
+
+Other names that are mentioned is Bantam (probably referring to the area in Connecticut, U.S.), Brexit, Charles J. Givens (author of a non-migration related book, titled Wealth Without Risk). Brexit could be referred when the article covered about migration in the U.S., as it was one of the most defining issue in the UK's referendum on its European Union membership.
+
+
+
+# III. Temporal evolution ⏰
 
 # a. Number of Articles Published Annually
 
@@ -211,20 +252,20 @@ Even if not as present as “Mexico”, the word China is still recurrent in the
 This linguistic analysis elucidates the intricate dynamics of migration discourse, where Mexico emerges as a focal point predominantly within the context of border policies and the experiences of Mexican migrants. In contrast, the narrative involving China unfolds with multifaceted dimensions, intertwining discussions on immigration with broader considerations of China’s geopolitical impact on the United States. The distinct thematic trajectories highlight the diverse and complex nature of the discourse surrounding these two nations in the context of migration, reflecting the multifaceted relationships and challenges inherent in the geopolitical landscape.
 
 
-# III. Topic Modeling
+# IV. Topic Modeling
 
 
 
-# IV. Sentiment Analysis
 
 
 
-# V. Name of Public Figures
-
-![Top 10 Public Figures Mentioned](https://github.com/lidwinaput/CMA_FinalTerm_Migration/assets/151516433/3a3b6a1f-fc0e-4512-80ac-e24a7f12ca83)
 
 
-Among the most common names mentioned, the first one in terms of frequency is Donald J. Trump or Trump. This shows how the news related to migration is almost always related to the president who implement the policy about migration.
+# V. Sentiment Analysis
+
+
+
+
 
 
 # VI. Conclusion
