@@ -196,6 +196,7 @@ In conclusion, the intricate interplay between societal trends, media dynamics, 
 ![Evolution of Policy](https://github.com/lidwinaput/CMA_FinalTerm_Migration/assets/151516433/548a4bb2-703f-4d63-9afc-2a92ad20a951)
 
 
+Chosen words: China; Mexico; immigration; migrants; policy
 
 The graphical representation illustrating word occurrences reveals a persistent utilization of the term "migrants" and a notable frequency of the word "immigration." Notably, the term "Mexico" is frequently employed, particularly in the period extending from the year 2000 onwards. In comparison, the term "China" is also prevalent, albeit to a lesser extent than "Mexico."
 
