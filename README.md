@@ -37,26 +37,24 @@ The illegal immigration population peaked in 2007, becoming a prominent issue in
 
 
 # Academic background 📗
-As we have already stated, it is undeniable that the United States’ history, culture and economics have been profoundly shaped by immigration, which started in the 17th century and has not stopped yet.  The perception of immigration in the media has been a topic of significant interest, being immigration a contentious issue. 
+As previously articulated, the enduring impact of immigration on the history, culture, and economics of the United States is indisputable, spanning back to the 17th century and persisting into contemporary times. The representation of immigration in the media has emerged as a subject of considerable scrutiny, given the contentious nature of the issue.
 
-Mass media has always been a powerful tool to shape political and social debate. According to McQuail, “The process of learning through the media […] is often incidental, unplanned and unconscious for the receiver and almost always unintentional on the part of the sender” (13). One of the most prominent aspects of media involves presenting a coherent portrayal of the world, encouraging the audience to embrace this interpretation as a reality grounded in “facts”, norms, values, and expectations. Furthermore, there is an ongoing and selective interplay between oneself and the media, influencing the shaping of an individual's behavior and self-concept (McQuail 13-14). 
+Mass media, recognized as a potent instrument for shaping political and social discourse, operates in a manner described by McQuail as an incidental, unplanned, and often unconscious process for the audience, unintentionally influenced by the sender. Central to this influence is the media's capacity to present a cohesive depiction of the world, urging the audience to adopt this interpretation as a reality founded on "facts," norms, values, and expectations. The reciprocal interaction between individuals and the media further contributes to the molding of behavior and self-concept (McQuail 13-14).
 
-The media's portrayal of immigration has evolved over time, reflecting the changing societal attitudes and political climate. Research by Barbara Smith found that in the post-World War II era, the media often depicted immigrants as contributors to the economic growth and cultural diversity of the United States. This positive portrayal aimed to promote the idea of the United States as a nation of immigrants. 
-However, as the political landscape changed, so did the media's portrayal of immigration. In the 1970s and ‘80s, the media was linked to a perception of immigrants as potential sources of trouble or conflict. In this case, the primary role of mass media is not necessarily to promote prejudice, but rather to delineate the presence of immigrants as an “objective” societal issue. The media are associated with a view of immigrants as likely to be a cause of trouble or be associated with conflict (McQuail 15). Additional research by Johnson revealed that during periods of economic downturn and political tension, the media tended to emphasize negative stereotypes associated with immigrants. These stereotypes included portraying immigrants as criminals, job stealers, and a burden on social services (135-150).
+The portrayal of immigration in the media has evolved over time, mirroring shifts in societal attitudes and the political climate. Noteworthy research by Barbara Smith underscores that post-World War II, the media predominantly depicted immigrants as contributors to the nation's economic growth and cultural diversity, fostering the idea of the United States as a nation of immigrants. However, as the political landscape underwent transformations, so did the media's portrayal of immigration. In the 1970s and '80s, the media became associated with depicting immigrants as potential sources of trouble or conflict, not necessarily to propagate prejudice but to delineate their presence as an "objective" societal issue. Johnson's research further illuminates that during periods of economic downturn and political tension, the media tended to accentuate negative stereotypes of immigrants, characterizing them as criminals, job usurpers, and burdens on social services (135-150).
 
-In his book Covering Immigration: Popular Images and the Politics of the Nation, Chavez analyses the covers of different magazines during their years and their portrayals of immigration. The most relevant example of the shift in the narrative appeared on October 17, 1994, when the magazine The Nation had a cover story called “The Immigration Wars”. The cover shows a picture of the Western U.S. border with lots of people walking towards it. In the front, there is the Statue of Liberty with an upside-down American flag, and a guard dog growling at a man with a backpack. This cover story highlighted how intense and powerful images and words on popular magazine covers can be when discussing anti-immigrant feelings (Chavez ch. 1).
+In his comprehensive examination titled "Covering Immigration: Popular Images and the Politics of the Nation," Chavez scrutinizes magazine covers over the years. A pivotal example of a narrative shift occurred on October 17, 1994, when The Nation's cover story, "The Immigration Wars," depicted a scene at the Western U.S. border with powerful imagery symbolizing anti-immigrant sentiments. This instance underscores the impactful convergence of visuals and words on popular magazine covers in shaping public perceptions (Chavez ch. 1).
 
-The perception of immigration in the media is closely linked to political discourse. Research by Martinez (2018) highlighted that media coverage of immigration is often influenced by political agendas and rhetoric. The study found that during election cycles, media outlets aligned their coverage with the political ideologies of the candidates, leading to biased portrayals of immigrants.
-Media framing plays a crucial role in shaping public opinion on immigration. According to Thompson, the media's framing of immigration issues significantly influenced public attitudes and policy preferences. The study found that when the media framed immigration as a threat to national security, public support for restrictive immigration policies increased.
+The media's portrayal of immigration is intricately intertwined with political discourse, as illuminated by Martinez's research in 2018. Media coverage, particularly during election cycles, aligns with political ideologies, resulting in biased portrayals of immigrants. Media framing emerges as a pivotal factor shaping public opinion on immigration, with Thompson's study demonstrating that framing immigration as a threat to national security correlates with increased public support for restrictive policies.
 
-The media's representation of immigrant communities has also been a subject of investigation. Research by Lee (2016) explored the portrayal of immigrant communities in television dramas and found that they were often depicted as exotic, foreign, and prone to criminal activities. This portrayal perpetuated stereotypes and reinforced negative perceptions of immigrants.
-This literature review has provided an overview of the perception of immigration in the media in the United States from 1945 to 2023. The findings highlight the shifting narratives, the influence of political discourse, and the role of media framing in shaping public opinion. 
+Beyond the broader narrative, the representation of immigrant communities within media has undergone scrutiny, with Lee's research revealing that television dramas often depicted them as exotic, foreign, and prone to criminal activities, perpetuating stereotypes and reinforcing negative perceptions.
 
+This comprehensive literature review encapsulates the nuanced dynamics of the perception of immigration in the U.S. media from 1945 to 2023, shedding light on evolving narratives, the symbiotic relationship with political discourse, and the influential role of media framing in shaping public sentiment and policy preferences.
 
 # Data & Methodology 📈
 For the corpus, we are analyzing 10,132 articles from The New York Times, from the year 1945-2023.
 
-In building the corpus, due to the NYT API's constraints when generating the corpus, we generated the articles by breaking them into six different corpus and concatenate them accordingly.
+In building the corpus, due to the NYT API's constraints when generating the corpus, we generated the articles by breaking them into six different corpus and concatenating them accordingly.
 
 
 # I. Lexical extraction 📊
@@ -114,7 +112,7 @@ Americans: 222 times
 
 In the corpus of articles pertaining to migration and the United States, an analysis employing named entity recognition reveals a notable concentration on specific nationalities and countries. Intriguingly, the majority of these entities—seven nouns, to be precise—are intricately linked to the United States itself. Concurrently, the names "Mexico"/"Mexican" and "China" emerge prominently beyond this central nexus, signifying their distinctive relevance in the discourse on migration.
 
-This observation underscores a discernible thematic pattern within the narrative constructed by articles from the New York Times. The overarching focus revolves around elucidating the impact of migration on the United States and its citizenry ("Americans"). Significantly, the preeminent themes in the coverage of migration within the United States consistently gravitate towards China and Mexico, specifically Chinese and Mexican nationals.
+This observation underscores a discernible thematic pattern within the narrative constructed by articles from the New York Times. The overarching focus revolves around elucidating the impact of migration on the United States and its citizenry ("Americans"). The recurrent mention of Washington D.C. is to be attributed to the political importance of the city, that is the capital and the headquarters of the US' political life, with the Capitol and the White House. Significantly, the preeminent themes in the coverage of migration within the United States consistently gravitate towards China and Mexico, specifically Chinese and Mexican nationals.
 
 As expected, the mention of Mexico or "Mexican" within the discourse is pronounced, primarily stemming from the substantial influx of immigrants from the country. The high volume of border crossings between Mexico and the United States catalyzes U.S. government actions, particularly during the Trump presidency, prompting initiatives such as the construction of border walls to impede further migration from Mexico.
 
@@ -129,23 +127,26 @@ In synthesizing the most frequently used nouns, it becomes evident that the narr
 
 ![10 Most Used Verbs](https://github.com/lidwinaput/CMA_FinalTerm_Migration/assets/151516433/c672ab00-04b1-460b-b3b0-52e2439f33cb)
 
+
 # D. Distribution of Verbs by Tenses
 ![Distribution of Verbs by Tenses](https://github.com/lidwinaput/CMA_FinalTerm_Migration/assets/151516433/75bb99af-98b7-4aac-82e4-37017b2e93e5)
 
 
-Verbs in Past Tense : 11104
+Verbs in Past Tense: 11104
 
-Verbs in Present Tense : 4072
+Verbs in Present Tense: 4072
 
-Verbs in Future Tense : 41269
+Verbs in Future Tense: 41269
 
 
-# Analysis
-Based on the results, it is interesting that the most used verbs are in future tense, although the most used verbs is 'is' which is a very common to-be form.
 
-In the articles, migration in the United States could be linked with aspiration, hence using future tense, or about the impact to the U.S., therefore using future tenses 'it will...'
+The analysis of verb frequency in the corpus reveals a noteworthy prevalence of the verbs "to be" and "to have," with a distinct emphasis on the form "is." However, given their ubiquitous use, often in auxiliary roles, and the absence of nuanced significance, these findings are deemed less relevant for our analytical purposes.
 
-The lack of using 'present tense' also shows how most of the news does not only present facts, it could also show what happened before and what will be the consequences (future)
+Intriguingly, the examination of verb usage exposes an interesting pattern, as the most frequently employed verbs are situated in the future tense. This observation prompts consideration of a potential correlation between the prevalent use of future tense verbs and the discourse surrounding migration in the United States. One plausible interpretation suggests a thematic alignment with the aspirational dimension of formulating new policies to curtail migration. Alternatively, the future tense may be indicative of a broader contemplation of the impending impact of migration on the future political, economic, social, and cultural fabric of the United States.
+
+The conspicuous absence of the 'present tense' in verb usage further underscores a distinctive characteristic of the news articles. Rather than merely presenting factual information, the narrative appears to extend beyond the immediate present, delving into both historical contexts and prospective consequences. This temporal breadth suggests a comprehensive examination of the migration phenomenon, encapsulating not only its current manifestations but also its antecedents and the anticipated ramifications on the future trajectory of the United States in various spheres.
+
+In essence, the predominance of future tense verbs serves as a linguistic marker, potentially mirroring the dual emphasis on future-oriented policy considerations and the broader, lasting implications of migration on the multifaceted dimensions of American society.
 
 
 # II. Temporal evolution ⏰
