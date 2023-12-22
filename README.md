@@ -274,6 +274,19 @@ This linguistic analysis elucidates the intricate dynamics of migration discours
 
 # VI. Conclusion
 
+This comprehensive analysis of articles about migration in the United States, as published by The New York Times, not only delineates discursive patterns and thematic emphases but also delves into the affective dimension inherent in the narratives. Through the application of sentiment analysis, it was observed that the majority of these articles exude a predominantly positive character.
+
+The recurrent use of adjectives such as "new," "American," "political," and "black" not only lends semantic richness to the analysis but also suggests an intrinsic optimistic tone in the journalistic treatment of the migration phenomenon. This positivity may reflect an intention to highlight success stories, political innovations, and ethnic and racial diversity in the context of migration, counterbalancing any challenges presented in the narratives.
+
+In the substantive realm, the concentration on terms like "United States," "Mexico," and "China" acquires a positive nuance by accentuating the favorable interactions and partnerships between these countries, even amidst discussions on migratory issues. Such an approach can contribute to promoting a more harmonious and cooperative vision in international migration debates.
+
+The prevalence of future tense verbs, analyzed in the light of sentiment, may indicate a hopeful and constructive orientation in discussions about migratory policies. The prospect of shaping the future through more inclusive policies and innovative approaches is underscored, suggesting a proactive stance in addressing migratory challenges.
+The inclusion of public figures such as Donald J. Trump, Biden, and international leaders, framed within the context of sentiment analysis, reveals affective nuances in the representations of these personalities. The positive or negative perception of these political actors can influence the overall tone of the articles, impacting the public's perception of migratory policies and their implications.
+
+The temporal examination, revealing inflections correlated to historical events, is also imbued with a positive inclination, highlighting the progress achieved in various epochs. The post-2019 deceleration, associated with the COVID-19 pandemic, suggests a reflective and measured adaptation to exceptional circumstances, in harmony with the overall optimistic tone.
+The lexical evolution analysis, incorporating sentiment analysis, reveals emotional nuances around the selected keywords. The prominence of "Mexico" and "China" not only reflects geopolitical relevance but also suggests a constructive and collaborative approach in discussions about migration with these countries.
+
+In summary, this academically enriched analysis, complemented by sentiment analysis, offers a more holistic understanding of the discourse on migration in the United States. By acknowledging the predominance of a positive tone, the importance of a balanced and inclusive approach in journalistic discussions is reinforced, contributing to a more comprehensive and nuanced understanding of the complexities associated with the migratory phenomenon.
 
 
 # VII. Bibliography
