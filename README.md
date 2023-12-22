@@ -172,10 +172,15 @@ Post-2019, the intensity of the immigration debate persisted but slowed, potenti
 
 ![word count per article](https://github.com/lidwinaput/CMA_FinalTerm_Migration/assets/151516433/40df6bd3-c86f-4396-82ce-f51b05c1a7a1)
 
-# Analysis
+The analysis of word count per article provides insights into the dynamics of media discourse on immigration, suggesting a relationship between the intensity of societal and media discussions and the length and detail of articles. Broadly speaking, it can be hypothesized that as a topic gains prominence in both the media and society, articles tend to be more accurate, detailed, and consequently, longer.
 
-For the words used in the articles, a high amount of words are used in articles from 1990 until mid 2005, which could be because of the amount of migration and the increase of perception of migration as a threat that occurred during that time (post-Cold War and post 9/11)
+The observed trends in word count align with the overarching patterns identified in the analysis of the number of articles published per year on immigration. Notably, during periods marked by the promulgation of significant laws and reforms, such as the Immigration Act of 1990 under President George H.W. Bush, and in the aftermath of the 9/11 events in the mid-2000s, the word count per article experienced notable peaks. This correlation suggests that major legislative developments and impactful events stimulate more extensive and detailed discussions in the media. In particular, we can imagine that, because the terrorist attacks have been so traumatic and deeply disturbing for the whole American society – and not only those interested in politics or political matters – the journalists wrote longer articles to detail the dynamic of the events to appeal the general public and raise empathy and compassion for the victims and their families.
 
+However, a noteworthy inversion of this correlation becomes evident from the 2010s onward. Despite the continued increase in the number of articles published per year, the word count per article has remained relatively constant and low. This phenomenon is attributed to the proliferation of internet and online news platforms. The immediacy afforded by these platforms enables journalists to swiftly publish breaking news without exhaustive detail. Additional information can then be supplemented in subsequent articles as events unfold.
+
+Furthermore, the influence of new technologies and social media on information consumption patterns is significant. The fast-paced nature of these platforms encourages brevity and immediate dissemination of news. The diminishing attention span of the audience, as revealed in a survey by King's College London, further contributes to the preference for shorter and more concise articles among journalists. In this context, brevity becomes a strategic choice to engage a larger audience rapidly.
+
+In conclusion, the intricate interplay between societal trends, media dynamics, and technological advancements shapes the length and detail of articles on immigration. While historical events and legislative changes may prompt more extensive coverage, the contemporary landscape, characterized by the rapid dissemination of information online, necessitates concise and immediate reporting to cater to evolving patterns of information consumption.
 
 
 # c. Plot Word Evolution
