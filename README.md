@@ -177,13 +177,13 @@ Other U.S. Political Figures are mentioned, namely Bush, Barack Obama, Clinton, 
 Aside from U.S. Political Figures, other political figures from other countries are mentioned, namely Vicente Fox (Mexico), Angela Merkel (Germany), Fidel Castro (Cuba).  The three political figures have all championed or implemented policies about migration, particularly with the United States.
 
 
-For Vicente Fox who was the president of Mexico (2000-2006), together with president George W. Bush, they championed the rights of Mexican migrants in the United States, as they saw the issue as a key to domestic political success (Leiken, 2001).  
+For Vicente Fox who was the president of Mexico (2000-2006), together with president George W. Bush, they championed the rights of Mexican migrants in the United States, as they saw the issue as a key to domestic political success (Leiken).  
 
 
 As for Angela Merkel who was the chancellor of Germany, she was notable for her 'open-door' migration policy back in 2015, accepting over 1 million refugees. Although the immigration policy in Germany has changed ever since, when it comes to the topic of migration and the U.S., it is possible that The New York Times did comparison or referring to Angela Merkel for the U.S.' own immigration policy. 
 
 
-Fidel Castro who was the leader of the Cuban Revolution in 1959, was mentioned often in the articles on migration and the United States.  This is relatd to the Cuban exodus as a consequence of the revolution, which unleashed the highest refugee influx in United States history, with the amount of estimatedly 1.4 million people fleeing the country (Duany, 2017). Many people relocated, but United States became the top main destination for Cubans ever since then.  
+Fidel Castro who was the leader of the Cuban Revolution in 1959, was mentioned often in the articles on migration and the United States.  This is relatd to the Cuban exodus as a consequence of the revolution, which unleashed the highest refugee influx in United States history, with the amount of estimatedly 1.4 million people fleeing the country (Duany). Many people relocated, but United States became the top main destination for Cubans ever since then.  
 
 
 Other names that are mentioned is Bantam (probably referring to the area in Connecticut, U.S.), Brexit, Charles J. Givens (author of a non-migration related book, titled Wealth Without Risk). Brexit could be referred when the article covered about migration in the U.S., as it was one of the most defining issue in the UK's referendum on its European Union membership.
@@ -291,17 +291,23 @@ Baum, Matthew A., and Philip B.K. Potter. “The Relationships between Mass Medi
 Chavez, Leo R. Covering Immigration: Popular Images and the Politics of the Nation. Google Books, University of California Press, 15 Nov. 2023, https://www.academia.edu/76022996/Covering_immigration_Popular_images_and_the_politics_of_the_nation
 History Channel. “U.S. Immigration before 1965.” History.com, A&E Television Networks, 19 Nov. 2018, www.history.com/topics/immigration/u-s-immigration-before-1965.
 
+Duany, Jorge. “Cuban Migration: A Postrevolution Exodus Ebbs and Flows.” Migrationpolicy.org, 3 July 2017, www.migrationpolicy.org/article/cuban-migration-postrevolution-exodus-ebbs-and-flows#:~:text=In%201959%2C%20the%20Cuban%20Revolution.
+
 Johnson, Kent. “Behavioral Education in the 21st Century”. Journal of Organizational Behavior Management, vol. 35, 3 June 2015 pp. 135-150, Doi: 10.1080/01608061.2015.1036152, https://www.tandfonline.com/doi/full/10.1080/01608061.2015.1036152
 
 King's College London. “Are Attention Spans Really Collapsing? Data Shows UK Public Are Worried – but Also See Benefits from Technology.” www.kcl.ac.uk, 16 Feb. 2022, www.kcl.ac.uk/news/are-attention-spans-really-collapsing-data-shows-uk-public-are-worried-but-also-see-benefits-from-technology.
+
+Leiken, Robert S. “Border Colleagues: On Migration, Bush and Fox Belong on the Same Side.” Brookings, 2 Sept. 2001, www.brookings.edu/articles/border-colleagues-on-migration-bush-and-fox-belong-on-the-same-side/. 
 
 Mendoza, Mary E. “Biden’s Border Wall Is a Bipartisan Tradition.” TIME, 30 Oct. 2023, time.com/6324599/bidens-trump-history-border-wall/.
 McQuail, Denis. Mass Communication Theory: an Introduction. London: Sage, 1983, ch. 1 pp. 7-23 
 
 Nowrasteh, Alex “Interior Immigration Enforcement Has Collapsed under Trump, Lowest Level since George W. Bush Administration.” Cato at Liberty (blog), December 27, 2020, https://www.cato.org/blog/interior-immigration-enforcement-has-collapsed-under-trump-lowest-level-george-w-bush
+
 Pew Research Center. “Migration between the U.S. And Mexico.” Pew Research Center’s Hispanic Trends Project, 23 Apr. 2012, www.pewresearch.org/hispanic/2012/04/23/ii-migration-between-the-u-s-and-mexico/.
 
 Smith, Barbara E. “Market Rivals or Class Allies? Relations between African American and Latino Immigrant Workers in Memphis.” Global Connections & Local Receptions: New Latino Immigration to the Southeastern United States, by Fran Ansley and Jon Shefner, Knoxville, University of Tennessee Press, 2009.
+
 UN Department of Economic and Social Affairs. “International Migrant Stock 2019 Documentation.” United Nations, Aug. 2019.
 US Census Bureau. “American Community Survey (ACS).” Census.gov, 2021, www.census.gov/programs-surveys/acs.
 
