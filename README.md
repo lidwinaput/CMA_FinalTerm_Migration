@@ -262,14 +262,15 @@ This linguistic analysis elucidates the intricate dynamics of migration discours
 # V. Sentiment Analysis
 
 
-
 ![Sentiment Analysis](https://github.com/lidwinaput/CMA_FinalTerm_Migration/assets/151516433/293288d4-ece1-4dc2-bf5b-57e0dfd7b5b3)
 
+Contrary to our first hypothesis, the majority (around 6000) of the articles about migration in the New York Times convey positive sentiments, whereas less than half of them are negatively framed. Interpreting why this happens involves considering several factors related to journalism practices, the nature of the content, and possibly the methodology of the sentiment analysis itself. 
 
+The most plausible explanation is that the New York Times, like many reputable news outlets, often adopts a formal, balanced, and nuanced style of reporting. This might result in language that is less extreme and more measured, which could be interpreted as more positive by sentiment analysis tools. However, despite its neutral style of reporting, it is known that sometimes the New York Times tends to adopt a more center-left vision. Positive sentiment in articles about migration could be due to a focus on human interest stories that highlight success, resilience, or positive aspects of the immigrant experience.
 
+If the dataset includes articles focusing on positive aspects of migration, such as community support, successful integration, or contributions of immigrants to society, this will skew the sentiment analysis results towards the positive. In addition to this, certain words or phrases might have different connotations in the context of migration and could be interpreted differently by sentiment analysis tools.
 
-
-
+It is thus important to approach the results of sentiment analysis with a critical understanding of these various factors. Sentiment analysis provides a quantitative measure, but interpreting these results requires qualitative judgment and consideration of context, editorial practices, and the tool’s limitations.
 
 
 # VI. Conclusion
