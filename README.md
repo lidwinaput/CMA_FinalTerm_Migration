@@ -282,5 +282,27 @@ This linguistic analysis elucidates the intricate dynamics of migration discours
 
 # VII. Bibliography
 
+### Cited Work
+
+Baxter, Andrew M., and Alex Nowrasteh. “A Brief History of U.S. Immigration Policy from the Colonial Period to the Present Day.” Cato.org, 3 Aug. 2021, www.cato.org/policy-analysis/brief-history-us-immigration-policy-colonial-period-present-day.
+
+Baum, Matthew A., and Philip B.K. Potter. “The Relationships between Mass Media, Public Opinion, and Foreign Policy: Toward a Theoretical Synthesis.” Annual Review of Political Science, vol. 11, no. 1, June 2008, pp. 39–65.
+
+Chavez, Leo R. Covering Immigration: Popular Images and the Politics of the Nation. Google Books, University of California Press, 15 Nov. 2023, https://www.academia.edu/76022996/Covering_immigration_Popular_images_and_the_politics_of_the_nation
+History Channel. “U.S. Immigration before 1965.” History.com, A&E Television Networks, 19 Nov. 2018, www.history.com/topics/immigration/u-s-immigration-before-1965.
+
+Johnson, Kent. “Behavioral Education in the 21st Century”. Journal of Organizational Behavior Management, vol. 35, 3 June 2015 pp. 135-150, Doi: 10.1080/01608061.2015.1036152, https://www.tandfonline.com/doi/full/10.1080/01608061.2015.1036152
+
+King's College London. “Are Attention Spans Really Collapsing? Data Shows UK Public Are Worried – but Also See Benefits from Technology.” www.kcl.ac.uk, 16 Feb. 2022, www.kcl.ac.uk/news/are-attention-spans-really-collapsing-data-shows-uk-public-are-worried-but-also-see-benefits-from-technology.
+
+Mendoza, Mary E. “Biden’s Border Wall Is a Bipartisan Tradition.” TIME, 30 Oct. 2023, time.com/6324599/bidens-trump-history-border-wall/.
+McQuail, Denis. Mass Communication Theory: an Introduction. London: Sage, 1983, ch. 1 pp. 7-23 
+
+Nowrasteh, Alex “Interior Immigration Enforcement Has Collapsed under Trump, Lowest Level since George W. Bush Administration.” Cato at Liberty (blog), December 27, 2020, https://www.cato.org/blog/interior-immigration-enforcement-has-collapsed-under-trump-lowest-level-george-w-bush
+Pew Research Center. “Migration between the U.S. And Mexico.” Pew Research Center’s Hispanic Trends Project, 23 Apr. 2012, www.pewresearch.org/hispanic/2012/04/23/ii-migration-between-the-u-s-and-mexico/.
+
+Smith, Barbara E. “Market Rivals or Class Allies? Relations between African American and Latino Immigrant Workers in Memphis.” Global Connections & Local Receptions: New Latino Immigration to the Southeastern United States, by Fran Ansley and Jon Shefner, Knoxville, University of Tennessee Press, 2009.
+UN Department of Economic and Social Affairs. “International Migrant Stock 2019 Documentation.” United Nations, Aug. 2019.
+US Census Bureau. “American Community Survey (ACS).” Census.gov, 2021, www.census.gov/programs-surveys/acs.
 
 
