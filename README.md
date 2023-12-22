@@ -155,12 +155,17 @@ In essence, the predominance of future tense verbs serves as a linguistic marker
 
 ![Number of Articles Published Annually](https://github.com/lidwinaput/CMA_FinalTerm_Migration/assets/151516433/deed401d-fe74-482f-8dfa-7e61a09b0e40)
 
+The analysis of annual articles on migration and the United States indicates that from 1946 to 1970, there was minimal media discourse on immigration, signifying its relatively low relevance in American society during that period. An exception occurred in 1964, coinciding with discussions surrounding the Immigration and Nationality Act. Signed by President Lyndon Johnson in 1965, this legislation marked a significant departure by abolishing the National Origins Formula, ending de facto discrimination against certain ethnicities in U.S. immigration policy and introducing numerical limits on immigration from the Western Hemisphere.
 
-# Analysis
+The 1970s marked the commencement of widespread discussions on immigration in the U.S., with notable events shaping the discourse. The Indochina Migration and Refugee Assistance Act of 1975, responding to the fall of Saigon and the end of the Vietnam War, facilitated the entry of approximately 130,000 refugees from South Vietnam, Laos, and Cambodia. Another pivotal year was 1991, following the enactment of the Immigration Act of 1990 by President George H.W. Bush, which instituted comprehensive reforms, affecting overall immigration numbers and introducing new visa categories.
 
-From the analysis of the number of articles on migration and US per year, the highest number of publications is in the year 2019. The year 2019 is the year when Trump implemented the 'Migrant Protection Protocols' or the 'Remain in Mexico' immigration policy, which affects immigration across the border with Mexico.
+The 9/11 terrorist attacks in 2001 elevated the immigration discourse, prompting scrutiny of the U.S. immigration and visa system. The ensuing discussions highlighted flaws and resulted in increased apprehension regarding the government's vetting processes. Subsequent legislative actions, such as the Border Protection, Anti-terrorism, and Illegal Immigration Control Act of 2005 and the Comprehensive Immigration Reform Act of 2006, fueled extensive debates.
 
-The policy is aimed to restrict the number of migrants coming to US, however, more migrants come crossing the border during that year, which shows how restrictive policy isn't necessarily effective to curb immigration.
+In 2011, the Deferred Action for Childhood Arrivals (DACA) policy, signed by President Obama in 2012, sparked discussions, and from 2015 onward, there was a consistent surge in articles related to immigration. This escalation is attributed to Donald Trump's candidacy and presidency, during which he emphasized restrictive immigration policies, including the proposal to expel irregular immigrants and build a border wall with Mexico.
+
+The peak in the number of publications occurred in 2019, coinciding with the implementation of the "Migrant Protection Protocols" or the "Remain in Mexico" immigration policy by President Trump. Despite the policy's intent to restrict migration, the data suggests an increase in border crossings, raising questions about the effectiveness of such restrictive measures.
+
+Post-2019, the intensity of the immigration debate persisted but slowed, potentially influenced by the COVID-19 pandemic and related policies impacting freedom of movement.
 
 
 # b. Word Count per Article
