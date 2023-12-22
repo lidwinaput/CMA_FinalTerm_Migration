@@ -261,7 +261,15 @@ This linguistic analysis elucidates the intricate dynamics of migration discours
 
 
 
+
+
 # V. Sentiment Analysis
+
+
+
+![Sentiment Analysis](https://github.com/lidwinaput/CMA_FinalTerm_Migration/assets/151516433/293288d4-ece1-4dc2-bf5b-57e0dfd7b5b3)
+
+
 
 
 
